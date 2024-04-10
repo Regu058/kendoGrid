@@ -1,0 +1,8 @@
+th.k-header.active .k-grid-column-menu {
+  color: #fff;
+  background-color: #ff6358;
+}
+
+.k-animation-container {
+  z-index: 9999999 !important;
+}
